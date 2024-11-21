@@ -1,34 +1,35 @@
 # dlsite-manager
 
-Easies way to enjoy the DLsite!
+DLsiteをもっと簡単に楽しもう！
 
-![main-image](./docs/img-list.png)
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/bb02ac29-1528-4839-b5cd-f97ffbd94384">
 
-## Key Features
 
-- List, search and download your products.
-- Manage multiple accounts at once.
+## 主な機能
 
-## Product download
+- 商品の一覧表示、検索、ダウンロード。
+- 複数のアカウントを同時に管理可能。
 
-To start download, just press the `Download` button. You don't need to decompress or run extractors. The `dlsite-manager` will handle other tedious jobs for you!
+## 商品のダウンロード
 
-> **NOTE**: Download path can be configured via `Setting > Open Settings` menu.
+ダウンロードを開始するには、`ダウンロード`ボタンを押すだけ。解凍や抽出ツールの実行は不要です。`dlsite-manager`が面倒な作業をすべて処理してくれます！
 
-## Renew product list
+> **注意**: ダウンロードパスは`設定 > 設定を開く`メニューから変更できます。
 
-The products are cached on your machine, so newly purchased things will not be shown. To refresh it, click the menu `Product > Fetch New Products`.
+## 商品リストの更新
 
-> **NOTE**: If you want to drop caches and update products entirely, click the menu `Product > Refresh All Products (Drop Caches)` instead.
+商品リストはあなたのPCにキャッシュされています。そのため、新しく購入した商品はすぐには表示されません。更新するには、メニューの`商品 > 新商品を取得`をクリックしてください。
 
-![update-product-image](./docs/img-update-product.png)
+> **注意**: キャッシュを完全に削除して商品を更新する場合は、メニューの`商品 > すべての商品を更新 (キャッシュ削除)`をクリックしてください。
 
-## Account management
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/ae468cd4-e025-4cb0-b4e8-f84b6e775f45">
 
-Do you have multiple accounts? Don't worry! The `dlsite-manager` will manage them, so you don't need to care. _Also, never forget to test your account!_
+## アカウント管理
 
-![account-management-image](./docs/img-account-management.png)
+複数のアカウントをお持ちですか？ご安心ください！`dlsite-manager`がすべてのアカウントを管理するので、あなたが気にする必要はありません。_また、アカウントの動作確認を忘れずに！_
 
-## Managing not-owned products
+<img width="1007" alt="" src="https://github.com/user-attachments/assets/eeed649f-1a34-4700-960b-eb2f14753e31">
 
-You can manage products that are not owned by any account! Use `Product > Scan Downloaded Products` to scan all downloaded products at once. It can also be used to restore download state of your products, too!
+## 未所有の商品を管理
+
+どのアカウントにも紐付けられていない商品を管理できます！`商品 > ダウンロード済み商品をスキャン`を使用して、すべてのダウンロード済み商品を一括でスキャンしてください。この機能は、商品のダウンロード状態を復元する際にも使用できます！
